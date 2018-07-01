@@ -8,3 +8,9 @@ import React from 'react';
 
 // Exercise 3: Prop It Up
 // Likes should take in number of likes as a prop and display it.
+
+const Likes = () => {
+	<span></span>
+	<button type="button">Like</button>
+
+export default Likes;
